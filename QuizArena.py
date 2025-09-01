@@ -103,3 +103,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = QuizBattleApp(root)
     root.mainloop()
+
